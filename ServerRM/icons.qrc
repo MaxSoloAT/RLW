@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/cam_i.png</file>
+        <file>icons/exit_i.png</file>
+		<file>icons/logset_i.png</file>
+		<file>icons/selprog_i.png</file>
+		<file>icons/main_i.png</file>
+    </qresource>
+</RCC>
